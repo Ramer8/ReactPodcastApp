@@ -11,7 +11,9 @@ node_modules
 dist
 dist-ssr
 *.local
-
+news.js
+Extra.js
+templatesHelpers.jsx
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
